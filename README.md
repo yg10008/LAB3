@@ -6,7 +6,7 @@
 --> Use the fs module to save the system information to a log file.
 --> Use the path module to ensure the file is saved in a standardized format (logs/system-info.txt).
 
-# sever,js file /tasks_
+# sever.js file /tasks_
 
 # Project: Basic Static File Server
 
